@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "username": "priyakolukuluri",
+      "email": "priya.kolukuluri@gmail.com",
+      "password": "almighty"
+    },
+    {
+      "username": "preethi",
+      "email": "preethi@gmail.com"
+    },
+    {
+      "username": "priyadarshini",
+      "email": "kolukuluri@gmail.com"
+    },
+    {
+      "username": "sruj",
+      "email": "sruj@gmail.com"
+    },
+    {
+      "username": "jason",
+      "email": "jason@gmail.com"
+    }
+  ]
+}
